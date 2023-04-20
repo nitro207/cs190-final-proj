@@ -1,0 +1,7 @@
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/ASPNetEmpty
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/ASPNetEmpty.dll
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/ASPNetEmpty.deps.json
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/ASPNetEmpty.runtimeconfig.json
+/Users/mehmamand/Projects/ASPNetEmpty/ASPNetEmpty/obj/Release/net7.0/PubTmp/Out/ASPNetEmpty.pdb
