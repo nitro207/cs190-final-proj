@@ -1,0 +1,7 @@
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/ASPWebApp1
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/ASPWebApp1.dll
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/ASPWebApp1.deps.json
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/ASPWebApp1.runtimeconfig.json
+/Users/mehmamand/CS190/ASPWebApp1/ASPWebApp1/obj/Release/net7.0/PubTmp/Out/ASPWebApp1.pdb
